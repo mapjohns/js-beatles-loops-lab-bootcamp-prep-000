@@ -8,4 +8,6 @@ function theBeatlesPlay(musicians, instruments) {
   return newArray
 }
 
-console.log(theBeatlesPlay(['John Lemon'], ['Guitar']))
+function johnLennonFacts() {
+  
+}
