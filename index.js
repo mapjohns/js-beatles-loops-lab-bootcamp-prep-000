@@ -7,4 +7,4 @@ function theBeatlesPlay(musicians, instruments) {
   return newArray
 }
 
-theBeatlesPlay(['John Lemon'], ['Guitar'])
+console.log(theBeatlesPlay(['John Lemon'], ['Guitar']))
