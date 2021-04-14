@@ -17,5 +17,3 @@ function johnLennonFacts(facts) {
   }
   return newArray
 }
-
-console.log(johnLennonFacts(['He did drugs']))
