@@ -1,5 +1,5 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
   let newArray = []
-  for ()
+  for (let i = 0, i<)
 }
