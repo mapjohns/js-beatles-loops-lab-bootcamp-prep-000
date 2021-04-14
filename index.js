@@ -13,5 +13,6 @@ function johnLennonFacts(facts) {
   let newArray = []
   while (i < facts.length) {
     facts[i].concat("!!!")
+    i++
   }
 }
