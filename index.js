@@ -22,5 +22,6 @@ function iLoveTheBeatles(number) {
   let newestArray = []
   do {
     newestArray.push(`I love the Beatles!`)
-  }
+    number = number + 1
+  } while (number < 15)
 }
