@@ -9,5 +9,5 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-  let 
+  let i = 0
 }
